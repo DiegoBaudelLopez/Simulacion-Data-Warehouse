@@ -1,0 +1,9 @@
+# Credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Data (archivos grandes)
+data/
